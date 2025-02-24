@@ -6,7 +6,7 @@
 - i changed the characters so that it uses characters from my name, and some other cute ones
   
 
-
+![image](./image.PNG)
   <video controls width="600">
     <source src="./scroll-art.mov" type="video/mp4">
     Your browser does not support the video tag.
