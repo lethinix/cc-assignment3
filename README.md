@@ -5,6 +5,7 @@
 - i added delay changes so that the scroll art speeds up and slows down
 - i changed the characters so that it uses characters from my name, and some other cute ones
   
+[link to code](https://scrollart.org/orbital-travels/)
 
 ![image](./image.PNG)
   <video controls width="600">
